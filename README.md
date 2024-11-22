@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KYUU</h1>
 <h3 align="center">I'm a founder of PEACHY Discord Bot, Currently I'm learning about code.</h3>
 <img align="right" alt="PEACHYBANNER" width="400" src="https://i.imgur.com/fFqwcK2.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&label=Profile%20views&color=0e75b6&style=flat" alt="yuuslokrobjakkroval" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&label=Profile%20views&color=0e75b6&style=flat" alt="yuuslokrobjakkroval" /> </p> -->
 
 - 🔭 I’m currently working on [PEACHY](https://peachy-dashboard.vercel.app/)
 
