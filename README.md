@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PEACHY](https://peachy-dashboard.vercel.app/)
 
-- 🌱 I’m currently learning **JS, React JS, Next JS, Nest JS**
+- 🌱 I’m currently learning **Javascript, React JS, Next JS, Nest JS**
 
 - 👯 I’m looking to collaborate on [PEACHY WEBSITE](https://peachy-website.vercel.app/)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://peachy-dashboard.vercel.app/](https://peachy-dashboard.vercel.app/)
 
-- 💬 Ask me about **JS**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **https://discord.gg/BJT4h55hbg**
 
