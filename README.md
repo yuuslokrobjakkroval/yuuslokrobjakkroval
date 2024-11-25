@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PEACHY](https://peachy-dashboard.vercel.app/)
 
-- 🌱 I’m currently learning **JS, React JS, Next JS, Nest JS, Python, Java**
+- 🌱 I’m currently learning **JS, React JS, Next JS, Nest JS**
 
 - 👯 I’m looking to collaborate on [PEACHY WEBSITE](https://peachy-website.vercel.app/)
 
