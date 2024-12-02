@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Javascript, React JS, Next JS, Nest JS**
 
-- 👯 I’m looking to collaborate on [PEACHY WEBSITE](https://peachy-website.vercel.app/)
+- 👯 I’m looking to collaborate on [WEBSITE](https://peachy-website.vercel.app/)
 
-- 🤝 I’m looking for help with [PEACHY WEBSITE](https://peachy-website.vercel.app/)
+- 🤝 I’m looking for help with [WEBSITE](https://peachy-website.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://peachy-dashboard.vercel.app/](https://peachy-dashboard.vercel.app/)
+- 👨‍💻 All of my projects are available at [DASHBOARD](https://peachy-dashboard.vercel.app/)
 
 - 💬 Ask me about **Javascript**
 
