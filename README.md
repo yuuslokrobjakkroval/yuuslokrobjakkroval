@@ -3,15 +3,15 @@
 <img align="right" alt="PEACHYBANNER" width="400" src="https://i.imgur.com/fFqwcK2.gif" />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&label=Profile%20views&color=0e75b6&style=flat" alt="yuuslokrobjakkroval" /> </p> -->
 
-- 🔭 I’m currently working on [PEACHY GANG](https://discord.com/invite/peachygang)
+- 🔭 I’m currently working on [PEACHY GANG](https://discord.com/invite/peachyganggg)
 
 - 🌱 I’m currently learning **Javascript, React JS, Next JS, Nest JS**
 
-- 👯 I’m looking to collaborate on [DASHBOARD](https://peachy-gang-dashboard.vercel.app)
+- 👯 I’m looking to collaborate on [DASHBOARD](https://www.peachygang.xyz)
 
-- 🤝 I’m looking for help with [MAINTERNANT](https://peachy-website.vercel.app/)
+- 🤝 I’m looking for help with [MAINTERNANT](https://www.peachygang.xyz)
 
-- 👨‍💻 All of my projects are available at [DASHBOARD](https://peachy-gang-dashboard.vercel.app)
+- 👨‍💻 All of my projects are available at [DASHBOARD](https://www.peachygang.xyz)
 
 - 💬 Ask me about **Javascript**
 
