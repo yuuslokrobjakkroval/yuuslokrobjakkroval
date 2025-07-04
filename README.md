@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **https://discord.gg/peachygang**
+- 📫 How to reach me **https://discord.gg/peachyganggg**
 
 - ⚡ Fun fact **Catch me if you can babe :P**
 
