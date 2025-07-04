@@ -46,7 +46,7 @@
 **You can also email me here:** support@yuu.bio
 
 <a href="https://github.com/yuuslokrobjakkroval"><img src="https://komarev.com/ghpvc/?username=yuuslokrobjakkroval">
-[![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/yuuslokrobjakkroval)
+[![](https://img.shields.io/github/followers/yuuslokrobjakkroval?label=Followers&style=social)](https://github.com/yuuslokrobjakkroval)
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/peachyganggg)
 
 <picture>
