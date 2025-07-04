@@ -38,6 +38,17 @@
 ![yuuslokrobjakkroval's Stats](https://github-readme-stats.vercel.app/api?username=yuuslokrobjakkroval&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![yuuslokrobjakkroval's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuslokrobjakkroval&theme=react&show_icons=true&hide_border=true&layout=compact)
 
+
+<!-- <br><br><br><br> -->
+## **📫 Contact**
+**Please Contact me on Discord for a quick response:** [gaeuly](https://discord.gg/n5AQRy3Ugq)
+
+**You can also email me here:** support@yuu.bio
+
+<a href="https://github.com/yuuslokrobjakkroval"><img src="https://komarev.com/ghpvc/?username=yuuslokrobjakkroval">
+[![](https://img.shields.io/github/followers/MiyagawaMizu?label=Followers&style=social)](https://github.com/yuuslokrobjakkroval)
+[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/peachyganggg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuuslokrobjakkroval/yuuslokrobjakkroval/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuuslokrobjakkroval/yuuslokrobjakkroval/output/github-snake.svg" />
