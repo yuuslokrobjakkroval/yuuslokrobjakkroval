@@ -41,7 +41,7 @@
 
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-**Please Contact me on Discord for a quick response:** [gaeuly](https://discord.gg/n5AQRy3Ugq)
+**Please Contact me on Discord for a quick response:** [KYUU](https://discord.gg/peachyganggg)
 
 **You can also email me here:** support@yuu.bio
 
