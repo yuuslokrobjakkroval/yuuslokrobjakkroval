@@ -76,7 +76,7 @@
 
 ## **📫 Contact**
 
-**Please Contact me on Discord for a quick response:** [KYUU](https://discord.gg/peachyganggg)
+**Please Contact me on Discord for a quick response:** [KYUU](https://discord.com/users/966688007493140591)
 
 **You can also email me here:** support@yuu.bio
 
