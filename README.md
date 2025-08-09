@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Javascript, React JS, Next JS, Nest JS**
 
-- 👯 I’m looking to collaborate on [DASHBOARD](https://peachygang.xyz) & [Docs](https://doc.peachygang.xyz)
+- 👯 I’m looking to collaborate on [DASHBOARD](https://peachyganggg.com) & [Docs](https://docs.peachyganggg.com)
 
-- 🤝 I’m looking for help with [MAINTERNANT](https://www.peachygang.xyz)
+- 🤝 I’m looking for help with [MAINTERNANT](https://peachyganggg.com)
 
-- 👨‍💻 All of my projects are available at [DASHBOARD](https://www.peachygang.xyz)
+- 👨‍💻 All of my projects are available at [DASHBOARD](https://peachyganggg.com)
 
 - 💬 Ask me about **Javascript**
 
