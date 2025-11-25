@@ -1,10 +1,11 @@
+<!-- 
 <div align="center">
   <a href="https://kenndeclouv.me">
   <img height="150" src="https://files.catbox.moe/4s4vyh.png"/>
   <br>
-  <!-- <img src="https://komarev.com/ghpvc/?username=KennDeClouv" alt="visitor count" /> -->
   </a>
 </div>
+-->
 <h3 align="center">I'm a Founder of PEACHY Discord Bot</h3>
 <img align="right" alt="PEACHYBANNER" width="400" src="https://i.imgur.com/fFqwcK2.gif" />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&label=Profile%20views&color=0e75b6&style=flat" alt="yuuslokrobjakkroval" /> </p> -->
@@ -81,7 +82,7 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
 
-![yuuslokrobjakkroval's Stats](https://github-readme-stats.vercel.app/api?username=yuuslokrobjakkroval&theme=react&show_icons=true&hide_border=true&count_private=true)
+<!-- ![yuuslokrobjakkroval's Stats](https://github-readme-stats.vercel.app/api?username=yuuslokrobjakkroval&theme=react&show_icons=true&hide_border=true&count_private=true) -->
 ![yuuslokrobjakkroval's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuslokrobjakkroval&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 <!-- <br><br><br><br> -->
