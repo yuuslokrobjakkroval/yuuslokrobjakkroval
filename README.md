@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/966688007493140591" align="center">
-    <img src="https://lanyard.cnrad.dev/api/966688007493140591?theme=dark&showDisplayName=true" />
+    <img src="[https://lanyard.cnrad.dev/api/966688007493140591?theme=dark&showDisplayName=true](https://lanyard.cnrad.dev/api/966688007493140591?bg=FDEDED&borderRadius=16&theme=dark&showDisplayName=true&idleMessage=PEACHY%20%20%20%E2%95%B0%E2%9E%A3%20https%3A%2F%2Fdiscord.gg%2F8ZASwPK7Hw%20DASHBOARD%20%20%20%20%20%E2%95%B0%E2%9E%A3%20https%3A%2F%2Fdashboard.peachyganggg.com%20DOCS%20%20%20%20%E2%95%B0%E2%9E%A3%20https%3A%2F%2Fdocs.peachyganggg.com%20WEBSITE%20%20%20%E2%95%B0%E2%9E%A3%20https%3A%2F%2Fkyuu.peachyganggg.com)" />
   </a>
 </div>
 
