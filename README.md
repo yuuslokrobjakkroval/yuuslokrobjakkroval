@@ -1,4 +1,10 @@
-<h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓚𝓨𝓤𝓤🐣💞</h1>
+<div align="center">
+  <a href="https://kenndeclouv.me">
+  <img height="150" src="https://files.catbox.moe/4s4vyh.png"/>
+  <br>
+  <!-- <img src="https://komarev.com/ghpvc/?username=KennDeClouv" alt="visitor count" /> -->
+  </a>
+</div>
 <h3 align="center">I'm a Founder of PEACHY Discord Bot</h3>
 <img align="right" alt="PEACHYBANNER" width="400" src="https://i.imgur.com/fFqwcK2.gif" />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&label=Profile%20views&color=0e75b6&style=flat" alt="yuuslokrobjakkroval" /> </p> -->
@@ -95,3 +101,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuuslokrobjakkroval/yuuslokrobjakkroval/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/yuuslokrobjakkroval/yuuslokrobjakkroval/output/github-snake.svg" />
 </picture>
+
+---
+<div align="center">
+<img src="https://count.getloli.com/@:yuuslokrobjakkroval?name=%3Ayuuslokrobjakkroval&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"/>
+</div>
