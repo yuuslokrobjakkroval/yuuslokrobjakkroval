@@ -34,9 +34,9 @@
 </p>
 
 <div align="center">
-<a href="https://discord.com/users/966688007493140591" align="center">
-  <img src="https://lanyard.cnrad.dev/api/966688007493140591?theme=dark&showDisplayName=true" />
-</a>
+  <a href="https://discord.com/users/966688007493140591" align="center">
+    <img src="https://lanyard.cnrad.dev/api/966688007493140591?theme=dark&showDisplayName=true" />
+  </a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
