@@ -27,6 +27,12 @@
 <a href="https://lnk.to/peachyyyyganggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BJT4h55hbg" height="30" width="40" /></a>
 </p>
 
+<div align="center">
+<a href="https://discord.com/users/966688007493140591" align="center">
+  <img src="https://lanyard.cnrad.dev/api/966688007493140591?theme=dark&showDisplayName=true" />
+</a>
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
