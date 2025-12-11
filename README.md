@@ -7,7 +7,7 @@
 </div>
 -->
 <h3 align="center">I'm a Founder of PEACHY Discord Bot</h3>
-<img align="right" alt="PEACHYBANNER" src="https://i.imgur.com/fFqwcK2.gif" />
+<img alt="PEACHYBANNER" src="https://i.imgur.com/fFqwcK2.gif" />
 
 
 
