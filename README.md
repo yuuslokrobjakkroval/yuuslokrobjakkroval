@@ -8,19 +8,6 @@
 -->
 <h3 align="center">I'm a Founder of PEACHY Discord Bot</h3>
 <img align="right" alt="PEACHYBANNER" width="400" src="https://i.imgur.com/fFqwcK2.gif" />
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&label=Profile%20views&color=0e75b6&style=flat" alt="yuuslokrobjakkroval" /> </p> -->
-
-- 🔭 I’m currently working on [PEACHY GANG](https://dashboard.peachyyyyganggg.com)
-
-- 🌱 I’m currently learning **Javascript, React JS, Next JS, Nest JS**
-
-- 👯 I’m looking to collaborate on [DASHBOARD](https://dashboard.peachyganggg.com) & [Docs](https://docs.peachyganggg.com)
-
-- 🤝 I’m looking for help with [MAINTERNANT](https://dashboard.peachyganggg.com)
-
-- 👨‍💻 All of my projects are available at [DASHBOARD](https://dashboard.peachyganggg.com)
-
-- ⚡ Fun fact **Catch me if you can babe :P**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
