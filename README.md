@@ -20,10 +20,6 @@
 
 - 👨‍💻 All of my projects are available at [DASHBOARD](https://dashboard.peachyganggg.com)
 
-- 💬 Ask me about **Javascript**
-
-- 📫 How to reach me **https://dashboard.peachyyyyganggg.com**
-
 - ⚡ Fun fact **Catch me if you can babe :P**
 
 <h3 align="left">Connect with me:</h3>
