@@ -10,19 +10,19 @@
 <img align="right" alt="PEACHYBANNER" width="400" src="https://i.imgur.com/fFqwcK2.gif" />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&label=Profile%20views&color=0e75b6&style=flat" alt="yuuslokrobjakkroval" /> </p> -->
 
-- 🔭 I’m currently working on [PEACHY GANG](https://lnk.to/peachyyyyganggg)
+- 🔭 I’m currently working on [PEACHY GANG](https://dashboard.peachyyyyganggg.com)
 
 - 🌱 I’m currently learning **Javascript, React JS, Next JS, Nest JS**
 
-- 👯 I’m looking to collaborate on [DASHBOARD](https://peachyganggg.com) & [Docs](https://docs.peachyganggg.com)
+- 👯 I’m looking to collaborate on [DASHBOARD](https://dashboard.peachyganggg.com) & [Docs](https://docs.peachyganggg.com)
 
-- 🤝 I’m looking for help with [MAINTERNANT](https://peachyganggg.com)
+- 🤝 I’m looking for help with [MAINTERNANT](https://dashboard.peachyganggg.com)
 
-- 👨‍💻 All of my projects are available at [DASHBOARD](https://peachyganggg.com)
+- 👨‍💻 All of my projects are available at [DASHBOARD](https://dashboard.peachyganggg.com)
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **https://lnk.to/peachyyyyganggg**
+- 📫 How to reach me **https://dashboard.peachyyyyganggg.com**
 
 - ⚡ Fun fact **Catch me if you can babe :P**
 
