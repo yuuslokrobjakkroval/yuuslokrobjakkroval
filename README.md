@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F77FBE&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kyuu;Founder+of+PEACHY+Discord+Bot;Full+Stack+Developer" alt="Typing SVG" />
   </a> -->
   <!-- <br/> -->
-  <img src="https://i.imgur.com/fFqwcK2.gif" width="100%" style="border-radius: 10px;" alt="PEACHYBANNER" />
+  <img src="https://i.imgur.com/fFqwcK2.gif" width="100%" style="border-radius: 16px;" alt="PEACHYBANNER" />
 </div>
 
 <br/>
