@@ -46,8 +46,19 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
   <a href="https://github.com/yuuslokrobjakkroval">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuuslokrobjakkroval&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuslokrobjakkroval&layout=compact&theme=tokyonight&hide_border=true"/>
+    <img
+      height="180em"
+      alt="GitHub stats"
+      src="https://github-readme-stats.vercel.app/api?username=yuuslokrobjakkroval&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+    />
+  </a>
+
+  <a href="https://github.com/yuuslokrobjakkroval">
+    <img
+      height="180em"
+      alt="Top languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuslokrobjakkroval&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    />
   </a>
 </div>
 
@@ -65,16 +76,35 @@
 <!-- Space Shooter -->
 ![My GitHub Game](game.gif)
 
+<br/>
+
 <!-- Footer / Contact -->
-<hr/>
+<hr />
+
 <div align="center">
   <h3>📫 Let's Connect</h3>
-  <a href="https://discord.com/users/966688007493140591">
-    <img src="https://img.shields.io/badge/Discord-KYUU-7289DA?style=flat&logo=discord&logoColor=white&labelColor=7289DA" alt="Discord">
+
+  <a href="https://discord.com/users/966688007493140591" target="_blank">
+    <img
+      alt="Discord"
+      src="https://img.shields.io/badge/Discord-KYUU-7289DA?style=flat&logo=discord&logoColor=white"
+    />
   </a>
+
+  &nbsp;&nbsp;
+
   <a href="mailto:support@yuu.bio">
-    <img src="https://img.shields.io/badge/Email-support@yuu.bio-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="Email">
+    <img
+      alt="Email"
+      src="https://img.shields.io/badge/Email-support@yuu.bio-D14836?style=flat&logo=gmail&logoColor=white"
+    />
   </a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&style=flat-square&color=pink" alt="Visitor Count" />
+
+  <br /><br />
+
+  <img
+    alt="Profile views"
+    src="https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&style=flat-square&color=ff69b4"
+  />
 </div>
+
