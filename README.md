@@ -80,28 +80,20 @@
 
 <!-- Footer / Contact -->
 <hr />
-
 <div align="center">
   <h3>📫 Let's Connect</h3>
-
   <a href="https://discord.com/users/966688007493140591" target="_blank">
     <img
       alt="Discord"
       src="https://img.shields.io/badge/Discord-KYUU-7289DA?style=flat&logo=discord&logoColor=white"
     />
   </a>
-
-  &nbsp;&nbsp;
-
   <a href="mailto:support@yuu.bio">
     <img
       alt="Email"
       src="https://img.shields.io/badge/Email-support@yuu.bio-D14836?style=flat&logo=gmail&logoColor=white"
     />
   </a>
-
-  <br /><br />
-
   <img
     alt="Profile views"
     src="https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&style=flat-square&color=ff69b4"
