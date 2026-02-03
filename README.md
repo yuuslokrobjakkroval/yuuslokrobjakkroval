@@ -62,8 +62,6 @@
   </picture>
 </div>
 
-![My GitHub Game](game.gif)
-
 <!-- Footer / Contact -->
 <hr/>
 <div align="center">
