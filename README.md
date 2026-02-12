@@ -1,5 +1,3 @@
-# 👾 I'm Yuu
-
 <!-- Header & Banner -->
 <div align="center">
   <!-- <a href="https://kenndeclouv.me">
@@ -59,14 +57,15 @@ My journey is about continuous learning, but here are some of the tools and tech
 
 A look at my progress, contributions, and evolving skill set.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuuslokrobjakkroval&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuslokrobjakkroval&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuuslokrobjakkroval" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuslokrobjakkroval&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ### 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuuslokrobjakkroval&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=yuuslokrobjakkroval&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
 ### 📈 Contribution Activity
@@ -98,45 +97,6 @@ A look at my progress, contributions, and evolving skill set.
 <!--END_SECTION:activity-->
 
 ---
-
-## 🏗️ Notable Projects
-
-Here are a few projects that highlight my learning and development:
-
-<div align="center">
-
-### 🌟 [React Todo App](https://github.com/yuuslokrobjakkroval/react-todo-app)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yuuslokrobjakkroval&repo=react-todo-app&theme=tokyonight)](https://github.com/yuuslokrobjakkroval/react-todo-app)
-
-**Tech Stack:** React • JavaScript • HTML/CSS
-**Status:** ✅ Complete | ⭐ 5+ Stars | 🍴 2+ Forks
-*A classic todo application built with React to solidify core front-end concepts and state management.*
-
----
-
-### 🔥 [Algorithm Visualizer](https://github.com/yuuslokrobjakkroval/algorithm-visualizer)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yuuslokrobjakkroval&repo=algorithm-visualizer&theme=tokyonight)](https://github.com/yuuslokrobjakkroval/algorithm-visualizer)
-
-**Tech Stack:** JavaScript • HTML • CSS
-**Status:** 🚧 In Development | ⭐ 3+ Stars | 🍴 1+ Forks
-*An interactive web application to visualize common sorting and searching algorithms, helping understand complexity and execution.*
-
----
-
-### ⚡ [Simple Blog API](https://github.com/yuuslokrobjakkroval/simple-blog-api)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yuuslokrobjakkroval&repo=simple-blog-api&theme=tokyonight)](https://github.com/yuuslokrobjakkroval/simple-blog-api)
-
-**Tech Stack:** Node.js • Express.js • MongoDB
-**Status:** ✅ Complete | ⭐ 7+ Stars | 🍴 3+ Forks
-*A foundational RESTful API for a blog application, demonstrating backend routing, database integration, and CRUD operations.*
-
-</div>
-
----
-
 ## 🎓 Certifications & Achievements
 -   📜 **React - The Complete Guide (incl Hooks, React Router, Redux)** - *Udemy*
 -   📚 **Data Structures and Algorithms in JavaScript** - *Coursera*
@@ -163,43 +123,49 @@ Here are a few projects that highlight my learning and development:
 
 ## 🌐 Let's Connect & Collaborate
 
-I'm always eager to connect with fellow developers, collaborate on interesting projects, and learn from new experiences.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <!-- TODO: Add your LinkedIn profile URL -->
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yuusloalluniver)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kyuu.peachyganggg.com)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- TODO: Add your email address -->
-
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://kyuu.peachyganggg.com)
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yuusloalluniver">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://kyuu.peachyganggg.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://kyuu.peachyganggg.com">
+    <img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
+  </a>
+</p>
 
 ### 📱 Social Presence
 
-[![GitHub followers](https://img.shields.io/github/followers/yuuslokrobjakkroval?style=social)](https://github.com/yuuslokrobjakkroval)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/yuusloalluniver?style=social)](https://twitter.com/yuusloalluniver)
-
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/yuuslokrobjakkroval">
+    <img src="https://img.shields.io/github/followers/yuuslokrobjakkroval?style=social" />
+  </a>
+  <a href="https://twitter.com/yuusloalluniver">
+    <img src="https://img.shields.io/twitter/follow/yuusloalluniver?style=social" />
+  </a>
+</p>
 
 ## ☕ Support My Work
 
-If you found my projects helpful or learned something from my code, consider supporting my work:
+<p align="center">
+  <a href="https://buymeacoffee.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+  <a href="https://ko-fi.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+  <a href="https://github.com/sponsors/yuuslokrobjakkroval">
+    <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Buy Me a Coffee username -->
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/yuuslokrobjakkroval)
-
-</div>
 
 <div align="center">
   <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
@@ -215,8 +181,12 @@ If you found my projects helpful or learned something from my code, consider sup
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&align-item=center&lines=Full+Stack+Developer;Thanks+for+visting)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&center=true&vCenter=true&lines=Full+Stack+Developer;Thanks+for+visiting" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
 
-</div>
