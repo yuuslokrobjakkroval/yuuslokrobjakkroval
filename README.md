@@ -55,25 +55,22 @@ My journey is about continuous learning, but here are some of the tools and tech
 
 ## 📊 My GitHub Journey
 
-A look at my progress, contributions, and evolving skill set.
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuuslokrobjakkroval" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuslokrobjakkroval&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuuslokrobjakkroval&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+       alt="GitHub Stats" />
+
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuuslokrobjakkroval&layout=compact&langs_count=8&theme=tokyonight"
+       alt="Top Languages" />
 </p>
 
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuuslokrobjakkroval&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
-</p>
-
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuuslokrobjakkroval&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
-### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuuslokrobjakkroval&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=yuuslokrobjakkroval&theme=tokyonight&row=2&column=3&margin-w=10&no-bg=true&no-frame=true"
+    alt="GitHub Trophies" />
 </p>
 
 ### 📅 Contribution Calendar
