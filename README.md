@@ -56,11 +56,11 @@ My journey is about continuous learning, but here are some of the tools and tech
 ## 📊 My GitHub Journey
 
 <p align="center">
-  <img height="180em"
+  <img height="168em"
        src="https://github-readme-stats.yuuslokrobjakkroval.me/api?username=yuuslokrobjakkroval&show_icons=true&theme=tokyonight"
        alt="GitHub Stats" />
 
-  <img height="180em"
+  <img height="168em"
        src="https://github-readme-stats.yuuslokrobjakkroval.me/api/top-langs/?username=yuuslokrobjakkroval&layout=compact&theme=tokyonight"
        alt="Top Languages" />
 </p>
