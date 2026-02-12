@@ -57,11 +57,11 @@ My journey is about continuous learning, but here are some of the tools and tech
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuuslokrobjakkroval&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+       src="https://github-readme-stats-fawn-six-65.vercel.app/api?username=yuuslokrobjakkroval&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
        alt="GitHub Stats" />
 
   <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuuslokrobjakkroval&layout=compact&langs_count=8&theme=tokyonight"
+       src="https://github-readme-stats-fawn-six-65.vercel.app/top-langs/?username=yuuslokrobjakkroval&layout=compact&langs_count=8&theme=tokyonight"
        alt="Top Languages" />
 </p>
 
