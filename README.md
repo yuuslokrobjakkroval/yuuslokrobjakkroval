@@ -1,4 +1,4 @@
-# Hi there! 👾 I'm Yuu
+# 👾 I'm Yuu
 
 <!-- Header & Banner -->
 <div align="center">
