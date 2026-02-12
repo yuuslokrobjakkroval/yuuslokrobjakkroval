@@ -51,28 +51,6 @@ My journey is about continuous learning, but here are some of the tools and tech
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </p>
 
----
-
-## 📊 My GitHub Journey
-
-<p align="center">
-  <img height="168em"
-       src="https://github-readme-stats.yuuslokrobjakkroval.me/api?username=yuuslokrobjakkroval&show_icons=true&theme=tokyonight"
-       alt="GitHub Stats" />
-
-  <img height="168em"
-       src="https://github-readme-stats.yuuslokrobjakkroval.me/api/top-langs/?username=yuuslokrobjakkroval&layout=compact&theme=tokyonight"
-       alt="Top Languages" />
-</p>
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.yuuslokrobjakkroval.me/?username=yuuslokrobjakkroval&theme=tokyonight&row=2&column=3&margin-w=10&no-bg=true&no-frame=true"
-    alt="GitHub Trophies" />
-</p>
-
 ### 📅 Contribution Calendar
 <!-- <img src="https://ghchart.rshah.org/409ba5/yuuslokrobjakkroval" alt="Contribution Calendar" width="100%"/> -->
 
