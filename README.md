@@ -116,7 +116,7 @@ My journey is about continuous learning, but here are some of the tools and tech
   </a>
 </p>
 
-### 📱 Social Presence
+## 📱 Social Presence
 
 <p align="center">
   <a href="https://github.com/yuuslokrobjakkroval">
