@@ -57,11 +57,11 @@ My journey is about continuous learning, but here are some of the tools and tech
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats-fawn-six-65.vercel.app/api?username=yuuslokrobjakkroval&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+       src="https://github-readme-stats.yuuslokrobjakkroval.me/api?username=yuuslokrobjakkroval&show_icons=true&theme=tokyonight"
        alt="GitHub Stats" />
 
   <img height="180em"
-       src="https://github-readme-stats-fawn-six-65.vercel.app/top-langs/?username=yuuslokrobjakkroval&layout=compact&langs_count=8&theme=tokyonight"
+       src="https://github-readme-stats.yuuslokrobjakkroval.me/api/top-langs/?username=yuuslokrobjakkroval&layout=compact&theme=tokyonight"
        alt="Top Languages" />
 </p>
 
@@ -69,7 +69,7 @@ My journey is about continuous learning, but here are some of the tools and tech
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=yuuslokrobjakkroval&theme=tokyonight&row=2&column=3&margin-w=10&no-bg=true&no-frame=true"
+    src="https://github-readme-stats.yuuslokrobjakkroval.me/?username=yuuslokrobjakkroval&theme=tokyonight&row=2&column=3&margin-w=10&no-bg=true&no-frame=true"
     alt="GitHub Trophies" />
 </p>
 
