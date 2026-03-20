@@ -1,9 +1,9 @@
 <!-- Header & Banner -->
 <div align="center">
-  <!-- <a href="https://kenndeclouv.me">
+  <a href="https://kenndeclouv.me">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F77FBE&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Kyuu;Founder+of+PEACHY+Discord+Bot;Full+Stack+Developer" alt="Typing SVG" />
-  </a> -->
-  <!-- <br/> -->
+  </a>
+  <br/>
   <img src="https://i.imgur.com/fFqwcK2.gif" width="100%" style="border-radius: 16px;" alt="PEACHYBANNER" />
 </div>
 
@@ -11,7 +11,7 @@
 
 ## 🎯 About Me & Current Focus
 
-I’m still learning to code, step by step, mistake by mistake. Every challenge is a lesson, and every day is progress toward becoming better than yesterday. My passion lies in creating engaging user interfaces with React and solving complex problems with efficient algorithms.
+I'm still learning to code, step by step, mistake by mistake. Every challenge is a lesson, and every day is progress toward becoming better than yesterday. My passion lies in creating engaging user interfaces with React and solving complex problems with efficient algorithms.
 
 -   🔭 **Working on**: Personal learning projects, algorithm challenges, and exploring new web technologies.
 -   🌱 **Learning**: Advanced React patterns, Data Structures & Algorithms, and diving deeper into backend development.
@@ -30,10 +30,14 @@ My journey is about continuous learning, but here are some of the tools and tech
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
+
+### ⚛️ Frameworks & Libraries
+
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
-
 
 ### 🗄️ Databases
 
@@ -45,26 +49,32 @@ My journey is about continuous learning, but here are some of the tools and tech
 ### ☁️ Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"  alt="Git" />
-  <img src="https://img.shields.io/badge/GitLab-FF8552?style=for-the-badge&logo=git&logoColor=white"  alt="GitLab" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHud" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitLab-FF8552?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuuslokrobjakkroval&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuslokrobjakkroval&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="40%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuuslokrobjakkroval&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
+</div>
+
+---
+
 ### 📅 Contribution Calendar
-<!-- <img src="https://ghchart.rshah.org/409ba5/yuuslokrobjakkroval" alt="Contribution Calendar" width="100%"/> -->
 
-<!-- Snake Animation -->
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuuslokrobjakkroval/yuuslokrobjakkroval/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuuslokrobjakkroval/yuuslokrobjakkroval/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/yuuslokrobjakkroval/yuuslokrobjakkroval/output/github-snake.svg" />
-  </picture>
-</div> -->
-
-<!-- Space Shooter -->
 ![My GitHub Game](game.gif)
+
+---
 
 ## 🌐 Let's Connect & Collaborate
 
@@ -81,9 +91,6 @@ My journey is about continuous learning, but here are some of the tools and tech
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://kyuu.peachyganggg.com">
-    <img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" />
-  </a>
 </p>
 
 ## 📱 Social Presence
@@ -96,6 +103,8 @@ My journey is about continuous learning, but here are some of the tools and tech
     <img src="https://img.shields.io/twitter/follow/yuusloalluniver?style=social" />
   </a>
 </p>
+
+---
 
 ## ☕ Support My Work
 
@@ -110,7 +119,6 @@ My journey is about continuous learning, but here are some of the tools and tech
     <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" />
   </a>
 </p>
-
 
 <div align="center">
   <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
@@ -128,10 +136,9 @@ My journey is about continuous learning, but here are some of the tools and tech
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&center=true&vCenter=true&lines=Full+Stack+Developer;Thanks+for+visiting" 
-      alt="Typing SVG" 
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&center=true&vCenter=true&lines=Full+Stack+Developer;Thanks+for+visiting"
+      alt="Typing SVG"
     />
   </a>
 </p>
-
