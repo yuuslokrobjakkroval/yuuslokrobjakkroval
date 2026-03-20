@@ -116,12 +116,6 @@ My journey is about continuous learning, but here are some of the tools and tech
   </a>
 </p>
 
-<div align="center">
-  <a href="https://discord.com/users/966688007493140591" align="center">
-    <img src="https://lanyard.cnrad.dev/api/966688007493140591?theme=dark&showDisplayName=true" />
-  </a>
-</div>
-
 ## 📱 Social Presence
 
 <p align="center">
