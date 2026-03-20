@@ -66,36 +66,6 @@ My journey is about continuous learning, but here are some of the tools and tech
 <!-- Space Shooter -->
 ![My GitHub Game](game.gif)
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section with your latest activity -->
-<!--END_SECTION:activity-->
-
----
-## 🎓 Certifications & Achievements
--   📜 **React - The Complete Guide (incl Hooks, React Router, Redux)** - *Udemy*
--   📚 **Data Structures and Algorithms in JavaScript** - *Coursera*
--   🏅 **HackerRank - Problem Solving (Basic)**
--   🏆 **FreeCodeCamp - Front End Development Libraries Certification**
-
-## 📝 Latest Blog Posts
--   📖 [My Journey into React: First Steps and Learnings](https://kyuu.peachyganggg.com/blog/react-journey) <!-- TODO: Update with your actual blog post links -->
--   🔧 [Demystifying JavaScript Closures for Beginners](https://kyuu.peachyganggg.com/blog/js-closures)
--   ☁️ [Setting Up Your First Node.js Express Server](https://kyuu.peachyganggg.com/blog/node-express-setup)
-
-## 🎯 2024 Goals
--   🚀 Contribute to at least 5 open-source projects.
--   📚 Deepen expertise in TypeScript and explore Next.js.
--   🌟 Build and deploy one full-stack application end-to-end.
--   📝 Write 6+ technical blog posts sharing my learning experiences.
-
-## 🏆 Open Source Contributions
--   🔧 **[Community Learning Repo]**: Participated in documentation improvements and small feature additions.
--   🌟 **[Beginner Algorithms Project]**: Submitted solutions for several algorithm challenges.
--   🚀 **[Open Source Starter Kit]**: Reviewed PRs and provided feedback on entry-level contributions.
-
----
-
 ## 🌐 Let's Connect & Collaborate
 
 <p align="center">
