@@ -4,6 +4,7 @@
 <!-- Header -->
 <div align="center">
   <!-- Open to Opportunities Banner -->
+  <img src="https://i.imgur.com/fFqwcK2.gif" width="100%" style="border-radius: 16px;" alt="PEACHYBANNER" />
   <img src="https://img.shields.io/badge/🚀%20Open%20To-Junior%20Roles%20%26%20Collaboration-F77FBE?style=for-the-badge" alt="Open to opportunities" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&color=F77FBE&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
