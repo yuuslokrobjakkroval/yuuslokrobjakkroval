@@ -3,9 +3,10 @@
 
 <!-- Header -->
 <div align="center">
-  <a href="https://kenndeclouv.me">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F77FBE&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kyuu+%F0%9F%91%8B;Founder+of+PEACHY+Discord+Bot;Full+Stack+Developer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  <a href="https://kyuu.peachyganggg.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F77FBE&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kyuu;Founder+of+PEACHY+Discord+Bot;Full+Stack+Developer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
   </a>
+  <a href="https://app.daily.dev/yuuslokrobjakkrova"><img src="https://api.daily.dev/devcards/v2/QVQl9DcULAbmCSWUykmeR.png?type=wide&r=734" width="652" alt="Yuu's Dev Card"/></a>
   <br/>
   <img src="https://i.imgur.com/fFqwcK2.gif" width="100%" style="border-radius: 16px;" alt="PEACHYBANNER" />
 
