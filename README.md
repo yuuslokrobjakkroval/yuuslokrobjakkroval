@@ -40,31 +40,6 @@ One of my flagship projects — a feature-rich Discord bot built to bring fun, m
 
 ---
 
-## 🗺️ My Coding Journey
-
-| Year | Milestone |
-|------|-----------|
-| 2022 | 🌱 Wrote my first "Hello World" in HTML |
-| 2023 | ⚡ Fell in love with JavaScript and built first interactive pages |
-| 2023 | ⚛️ Discovered React — frontend development clicked |
-| 2024 | 🍑 Launched PEACHY Discord Bot — first real project with users |
-| 2024 | 🗄️ Started working with databases (MongoDB, PostgreSQL) |
-| 2025 | 🔧 Expanded into Node.js and full-stack development |
-| 2026 | 🚀 Focusing on algorithms, TypeScript, and shipping real products |
-
----
-
-## 🎯 Goals for 2026
-
-- [ ] Complete a full Data Structures & Algorithms course
-- [ ] Build and ship a full-stack web app from scratch
-- [ ] Contribute to at least 3 open-source projects
-- [ ] Land a junior developer role or internship
-- [ ] Write my first technical blog post
-- [ ] Reach 100 GitHub followers
-
----
-
 ## 🛠️ My Technology Arsenal
 
 ### 💻 Programming Languages
@@ -97,22 +72,7 @@ One of my flagship projects — a feature-rich Discord bot built to bring fun, m
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuuslokrobjakkroval&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" width="100%" />
-</div>
-
----
-
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuuslokrobjakkroval&show_icons=true&theme=radical&hide_border=true&title_color=F77FBE&icon_color=F77FBE" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuslokrobjakkroval&layout=compact&theme=radical&hide_border=true&title_color=F77FBE" alt="Top Languages" width="40%" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuuslokrobjakkroval&theme=radical&hide_border=true&ring=F77FBE&fire=F77FBE&currStreakLabel=F77FBE" alt="GitHub Streak" width="60%" />
@@ -128,14 +88,6 @@ One of my flagship projects — a feature-rich Discord bot built to bring fun, m
 
 ---
 
-## 🗂️ Profile Summary
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuuslokrobjakkroval&theme=radical" width="100%" alt="Profile Summary" />
-</div>
-
----
-
 ## 📅 Contribution Calendar
 
 <div align="center">
@@ -143,18 +95,6 @@ One of my flagship projects — a feature-rich Discord bot built to bring fun, m
 ![My GitHub Game](game.gif)
 
 </div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yuuslokrobjakkroval/PEACHY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuuslokrobjakkroval&repo=PEACHY&theme=radical&hide_border=true&title_color=F77FBE&icon_color=F77FBE" alt="PEACHY Bot" />
-  </a>
-</div>
-
-> 💡 *Replace the repo name above with your actual repository name.*
 
 ---
 
@@ -167,14 +107,6 @@ Resources that genuinely helped me grow — recommended for any beginner:
 - 🎥 **[React Docs (beta)](https://react.dev)** — Official React docs, beautifully written
 - 🧩 **[LeetCode](https://leetcode.com)** — Where I practice algorithms daily
 - 🎧 **[Fireship on YouTube](https://www.youtube.com/@Fireship)** — Fast, fun, and always relevant
-
----
-
-## 😄 Random Dev Joke
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&qColor=%23F77FBE&aColor=%23F77FBE" alt="Random Dev Joke" />
-</div>
 
 ---
 
