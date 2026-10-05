@@ -74,7 +74,7 @@ const kyuu = {
 | 🗄️ **Data**     | Relational & NoSQL schema design, query optimisation, caching with Redis           |
 | ☁️ **DevOps**   | Docker, CI/CD with GitHub Actions, Nginx, cloud deployment & monitoring            |
 
-## 📊 GitHub stats
+<!-- ## 📊 GitHub stats
 
 <div align="center">
 
@@ -83,9 +83,9 @@ const kyuu = {
 
 <img src="https://streak-stats.demolab.com?user=yuuslokrobjakkroval&theme=transparent&ring=10B981&fire=10B981&currStreakLabel=10B981&hide_border=true" alt="GitHub streak" />
 
-</div>
+</div> -->
 
-## 🚀 Space shooter vs. my contributions
+## 📊 GitHub stats & 🚀 My Contributions
 
 <div align="center">
 
@@ -93,7 +93,7 @@ const kyuu = {
 
 </div>
 
-## 🐍 Snake eating my contributions
+<!-- ## 🐍 Snake eating my contributions
 
 <div align="center">
 
@@ -103,7 +103,7 @@ const kyuu = {
   <img alt="Snake animation eating GitHub contributions" src="https://raw.githubusercontent.com/yuuslokrobjakkroval/yuuslokrobjakkroval/output/github-snake.svg" />
 </picture>
 
-</div>
+</div> -->
 
 ---
 
