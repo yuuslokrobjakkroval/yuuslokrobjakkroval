@@ -47,11 +47,11 @@ const kyuu = {
 
 **Frontend**
 
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,redux,vite,figma&theme=dark" alt="Frontend" /></p>
+<p><img src="https://skillicons.dev/icons?i=react,vue,nextjs,vite,redux,tailwind&theme=dark" alt="Frontend" /></p>
 
 **Backend**
 
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend" /></p>
+<p><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="Backend" /></p>
 
 **Databases**
 
@@ -59,7 +59,7 @@ const kyuu = {
 
 **DevOps & Tools**
 
-<p><img src="https://skillicons.dev/icons?i=git,docker,postman&theme=dark" alt="DevOps and tools" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,git,docker,postman&theme=dark" alt="DevOps and tools" /></p>
 
 **UX/UI**
 
