@@ -65,15 +65,6 @@ const kyuu = {
 
 <p><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Frontend" /></p>
 
-## 🏗️ What I build
-
-| Area            | What I do                                                                          |
-| --------------- | ---------------------------------------------------------------------------------- |
-| 🖥️ **Frontend** | SPAs and SSR apps with React / Next.js, design systems, responsive & accessible UI |
-| 🔌 **Backend**  | REST & GraphQL APIs, authentication, background jobs, third-party integrations     |
-| 🗄️ **Data**     | Relational & NoSQL schema design, query optimisation, caching with Redis           |
-| ☁️ **DevOps**   | Docker, CI/CD with GitHub Actions, Nginx, cloud deployment & monitoring            |
-
 <!-- ## 📊 GitHub stats
 
 <div align="center">
