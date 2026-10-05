@@ -22,7 +22,7 @@
 
 ```ts
 const kyuu = {
-  name: "Thoeurn Rothanak",
+  name: "Yuu Otosaka",
   role: "Full Stack Developer",
   location: "Phnom Penh, Cambodia",
   focus: ["Web applications", "REST & GraphQL APIs", "Cloud & DevOps"],
@@ -43,7 +43,7 @@ const kyuu = {
 
 **Languages**
 
-<p><img src="https://skillicons.dev/icons?i=ts,js,html,css,php,py,java&theme=dark" alt="Languages" /></p>
+<p><img src="https://skillicons.dev/icons?i=html,css,js,ts,py&theme=dark" alt="Languages" /></p>
 
 **Frontend**
 
@@ -51,15 +51,19 @@ const kyuu = {
 
 **Backend**
 
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,graphql,prisma&theme=dark" alt="Backend" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend" /></p>
 
 **Databases**
 
-<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase&theme=dark" alt="Databases" /></p>
+<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" alt="Databases" /></p>
 
 **DevOps & Tools**
 
-<p><img src="https://skillicons.dev/icons?i=docker,nginx,linux,aws,vercel,githubactions,git,postman,vscode&theme=dark" alt="DevOps and tools" /></p>
+<p><img src="https://skillicons.dev/icons?i=git,docker,postman&theme=dark" alt="DevOps and tools" /></p>
+
+**UX/UI**
+
+<p><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Frontend" /></p>
 
 ## 🏗️ What I build
 
@@ -70,20 +74,6 @@ const kyuu = {
 | 🗄️ **Data**     | Relational & NoSQL schema design, query optimisation, caching with Redis           |
 | ☁️ **DevOps**   | Docker, CI/CD with GitHub Actions, Nginx, cloud deployment & monitoring            |
 
-## 📌 Featured projects
-
-<!-- Replace REPO_NAME with your own repositories -->
-<div align="center">
-
-<a href="https://github.com/yuuslokrobjakkroval/peachy-reactjs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuuslokrobjakkroval&repo=peachy-reactjs&theme=transparent&title_color=10b981&icon_color=10b981&hide_border=true" alt="Project 1" />
-</a>
-<a href="https://github.com/yuuslokrobjakkroval/peachy-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuuslokrobjakkroval&repo=peachy-bot&theme=transparent&title_color=10b981&icon_color=10b981&hide_border=true" alt="Project 2" />
-</a>
-
-</div>
-
 ## 📊 GitHub stats
 
 <div align="center">
@@ -92,8 +82,6 @@ const kyuu = {
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuslokrobjakkroval&layout=compact&langs_count=8&theme=transparent&title_color=10b981&hide_border=true" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=yuuslokrobjakkroval&theme=transparent&ring=10B981&fire=10B981&currStreakLabel=10B981&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=yuuslokrobjakkroval&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
 
 </div>
 
@@ -114,14 +102,6 @@ const kyuu = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuuslokrobjakkroval/yuuslokrobjakkroval/output/github-snake.svg" />
   <img alt="Snake animation eating GitHub contributions" src="https://raw.githubusercontent.com/yuuslokrobjakkroval/yuuslokrobjakkroval/output/github-snake.svg" />
 </picture>
-
-</div>
-
-## 🌱 Contribution graph
-
-<div align="center">
-
-[![3D Contribution Graph](https://playboxjs.com/api/v1/github/contrib3d.php?user=yuuslokrobjakkroval&theme=emerald&year=last)](https://playboxjs.com/tools/github/contribution-graph?username=yuuslokrobjakkroval)
 
 </div>
 
