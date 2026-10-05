@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=10B981&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kyuu+%F0%9F%91%8B;Full+Stack+Developer;Frontend+%E2%80%A2+Backend+%E2%80%A2+DevOps;Building+fast%2C+scalable+web+apps" alt="Typing intro" />
 
-**Thoeurn Rothanak** · Full Stack Developer · Cambodia 🇰🇭
+**Yuu Otosaka** · Full Stack Developer · Cambodia 🇰🇭
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-thoeurnrothanak.tech-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thoeurnrothanak.tech/?utm_source=github&utm_medium=readme)
 [![GitHub followers](https://img.shields.io/github/followers/yuuslokrobjakkroval?style=for-the-badge&logo=github&color=10b981)](https://github.com/yuuslokrobjakkroval)
