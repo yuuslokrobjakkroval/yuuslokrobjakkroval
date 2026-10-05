@@ -97,6 +97,14 @@ const kyuu = {
 
 </div>
 
+## 🚀 Space shooter vs. my contributions
+
+<div align="center">
+
+![Space shooter game playing on my contribution graph](game.gif)
+
+</div>
+
 ## 🐍 Snake eating my contributions
 
 <div align="center">
