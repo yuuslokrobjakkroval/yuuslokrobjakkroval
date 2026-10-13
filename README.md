@@ -17,10 +17,10 @@
 👯 I’m looking to collaborate on [PEACHY](https://peachygang.app)<br>💬 Ask me about HTML, CSS, JavaScript, Discord.js, MongoDB<br>📫 How to reach me peachydeveloper@gmail.com<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/peachygang) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yuuslokrobjakkroval) 
 
-## 🧰 Tech stack
+# 🧰 Tech stack
 
 <!-- Adjust each ?i= list to the tools you actually use: https://skillicons.dev -->
 
@@ -59,13 +59,13 @@
 
 </div> -->
 
-## 📊 GitHub stats 
+# 📊 GitHub stats 
 
 ![](https://github-readme-stats.vercel.app/api?username=yuuslokrobjakkroval&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yuuslokrobjakkroval&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuuslokrobjakkroval&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🚀 My Contributions
+# 🚀 My Contributions
 
 <div align="center">
 
@@ -89,7 +89,7 @@
 
 <div align="center">
 
-### 💬 Let's connect
+## 💬 Let's connect
 
 Have a project in mind or just want to say hi? Reach me through my [portfolio](https://thoeurnrothanak.tech/?utm_source=github&utm_medium=readme).
 
