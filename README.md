@@ -22,7 +22,7 @@
  <a href="https://discord.gg/peachygang"><img src="https://skillicons.dev/icons?i=discord" alt="discord" /></a>
  <a href="https://discord.com/oauth2/authorize?client_id=1342317947573633077"><img src="https://skillicons.dev/icons?i=bots" alt="bots" /></a>
 
-<div align="left"><h2><strong>🧰 Tech stack</strong></h2></div>
+<div align="left"><strong>🧰 Tech stack</strong></div>
 
 **Languages**
 
