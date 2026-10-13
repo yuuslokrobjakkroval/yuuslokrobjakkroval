@@ -11,20 +11,18 @@
 </div>
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="480">
 
--# 💫 About Me:
-+<div align="left"><strong>💫 About Me:</strong></div>
+<div align="left"><strong>💫 About Me:</strong></div>
 
  🌱 I’m currently learning Next.js, React.js
  <br>
  👯 I’m looking to collaborate on [PEACHY](https://peachygang.app)<br>💬 Ask me about HTML, CSS, JavaScript, Discord.js, MongoDB<br>📫 How to reach me peachydeveloper@gmail.com<br>
 
+<div align="left"><strong>🌐 Socials:</strong></div>
 
-# 🌐 Socials:
+ <a href="https://discord.gg/peachygang"><img src="https://skillicons.dev/icons?i=discord" alt="discord" /></a>
+ <a href="https://discord.com/oauth2/authorize?client_id=1342317947573633077"><img src="https://skillicons.dev/icons?i=bots" alt="bots" /></a>
 
-<a href="https://discord.gg/peachygang"><img src="https://skillicons.dev/icons?i=discord" alt="discord" /></a>
-<a href="https://discord.com/oauth2/authorize?client_id=1342317947573633077"><img src="https://skillicons.dev/icons?i=bots" alt="bots" /></a>
-
-# 🧰 Tech stack
+<div align="left"><strong>🧰 Tech stack</strong></div>
 
 **Languages**
 
