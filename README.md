@@ -19,9 +19,7 @@
  <br>
  👯 I’m looking to collaborate on [PEACHY](https://peachygang.app)<br>💬 Ask me about HTML, CSS, JavaScript, Discord.js, MongoDB<br>📫 How to reach me peachydeveloper@gmail.com<br>
 
-<p>
-  <strong style="font-size: 24px;">🌐 Socials</strong>
-</p>
+**🌐 Socials**
 
  <a href="https://discord.gg/peachygang"><img src="https://skillicons.dev/icons?i=discord" alt="discord" /></a>
  <a href="https://discord.com/oauth2/authorize?client_id=1342317947573633077"><img src="https://skillicons.dev/icons?i=bots" alt="bots" /></a>
