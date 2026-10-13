@@ -20,8 +20,8 @@
 
 # 🌐 Socials:
 
-<a href="https://discord.gg/peachygang"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="discord" /></a>
-<a href="https://youtube.com/@yuuslokrobjakkroval"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" /></a>
+<a href="https://discord.gg/peachygang"><img src="https://skillicons.dev/icons?i=discord" alt="discord" /></a>
+<a href="https://youtube.com/@yuuslokrobjakkroval"><img src="https://skillicons.dev/icons?i=youTube" alt="youTube" /></a>
 
 # 🧰 Tech stack
 
