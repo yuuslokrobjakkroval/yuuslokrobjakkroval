@@ -11,9 +11,7 @@
 </div>
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="480">
 
-<p>
-  <strong style="font-size: 24px;">💫 About Me</strong>
-</p>
+**💫 About Me**
 
  🌱 I’m currently learning Next.js, React.js
  <br>
