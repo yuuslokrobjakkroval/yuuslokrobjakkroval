@@ -6,23 +6,24 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-thoeurnrothanak.tech-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thoeurnrothanak.tech/?utm_source=github&utm_medium=readme)
 [![GitHub followers](https://img.shields.io/github/followers/yuuslokrobjakkroval?style=for-the-badge&logo=github&color=10b981)](https://github.com/yuuslokrobjakkroval)
-![Profile views](https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&style=for-the-badge&color=10b981&label=Profile+views)
+[![Profile views](https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&style=for-the-badge&color=10b981&label=Profile+views)
 
 </div>
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="480">
 
 # 💫 About Me:
+
 🌱 I’m currently learning Next.js, React.js
 <br>
 👯 I’m looking to collaborate on [PEACHY](https://peachygang.app)<br>💬 Ask me about HTML, CSS, JavaScript, Discord.js, MongoDB<br>📫 How to reach me peachydeveloper@gmail.com<br>
 
 
 # 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/peachygang) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yuuslokrobjakkroval) 
+
+<a href="https://discord.gg/peachygang"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="discord" /></a>
+<a href="https://youtube.com/@yuuslokrobjakkroval"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube" /></a>
 
 # 🧰 Tech stack
-
-<!-- Adjust each ?i= list to the tools you actually use: https://skillicons.dev -->
 
 **Languages**
 
