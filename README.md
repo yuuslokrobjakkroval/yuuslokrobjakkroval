@@ -13,14 +13,14 @@
 
 **💫 About Me**
 
- 🌱 I’m currently learning Next.js, React.js
- <br>
- 👯 I’m looking to collaborate on [PEACHY](https://peachygang.app)<br>💬 Ask me about HTML, CSS, JavaScript, Discord.js, MongoDB<br>📫 How to reach me peachydeveloper@gmail.com<br>
+🌱 I’m currently learning Next.js, React.js
+<br>
+👯 I’m looking to collaborate on [PEACHY](https://peachygang.app)<br>💬 Ask me about HTML, CSS, JavaScript, Discord.js, MongoDB<br>📫 How to reach me peachydeveloper@gmail.com<br>
 
 **🌐 Socials**
 
- <a href="https://discord.gg/peachygang"><img src="https://skillicons.dev/icons?i=discord" alt="discord" /></a>
- <a href="https://discord.com/oauth2/authorize?client_id=1342317947573633077"><img src="https://skillicons.dev/icons?i=bots" alt="bots" /></a>
+<a href="https://discord.gg/peachygang"><img src="https://skillicons.dev/icons?i=discord" alt="discord" /></a>
+<a href="https://discord.com/oauth2/authorize?client_id=1342317947573633077"><img src="https://skillicons.dev/icons?i=bots" alt="bots" /></a>
 
 **🧰 Tech stack**
 
@@ -59,7 +59,7 @@
 
 </div> -->
 
-# 📊 GitHub stats 
+# 📊 GitHub stats
 
 ![](https://github-readme-stats.vercel.app/api?username=yuuslokrobjakkroval&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yuuslokrobjakkroval&theme=shadow_blue&hide_border=false)<br/>
@@ -73,19 +73,18 @@
 
 </div>
 
-<!-- ## 🐍 Snake eating my contributions
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuuslokrobjakkroval/yuuslokrobjakkroval/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuuslokrobjakkroval/yuuslokrobjakkroval/output/github-snake.svg" />
-  <img alt="Snake animation eating GitHub contributions" src="https://raw.githubusercontent.com/yuuslokrobjakkroval/yuuslokrobjakkroval/output/github-snake.svg" />
-</picture>
+<a href="https://skyline.peachygang.app/yuuslokrobjakkroval">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://skyline.peachygang.app/api/skyline?username=yuuslokrobjakkroval&theme=dark">
+    <img alt="My contributions as a 3D skyline"
+         src="https://skyline.peachygang.app/api/skyline?username=yuuslokrobjakkroval&theme=light">
+  </picture>
+</a>
 
-</div> -->
-
----
+</div>
 
 <div align="center">
 
