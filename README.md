@@ -9,7 +9,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&style=for-the-badge&color=10b981&label=Profile+views)
 
 </div>
-<img align="right" alt="coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400">
+<img align="right" alt="coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="480">
 
 # 💫 About Me:
 🌱 I’m currently learning Next.js, React.js
