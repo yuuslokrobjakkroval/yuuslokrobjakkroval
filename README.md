@@ -15,27 +15,16 @@
 -->
 
 </div>
+<img align="right" alt="coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400">
 
----
+# 💫 About Me:
+🌱 I’m currently learning Next.js, React.js
+<br>
+👯 I’m looking to collaborate on [PEACHY](https://peachygang.app)<br>💬 Ask me about HTML, CSS, JavaScript, Discord.js, MongoDB<br>📫 How to reach me peachydeveloper@gmail.com<br>
 
-## 🧑‍💻 About me
 
-```ts
-const kyuu = {
-  name: "Yuu Otosaka",
-  role: "Full Stack Developer",
-  location: "Phnom Penh, Cambodia",
-  focus: ["Web applications", "REST & GraphQL APIs", "Cloud & DevOps"],
-  currentlyLearning: ["System design", "Microservices", "AI integration"],
-  principles: ["Clean code", "Performance first", "Ship, measure, iterate"],
-  funFact: "I turn coffee and bug reports into features ☕",
-};
-```
-
-- 🚀 I build end-to-end products — from UI and APIs to databases and deployment
-- 🎨 I care about polished, accessible, responsive interfaces
-- ⚙️ I design backends that are secure, well-tested and easy to scale
-- 🤝 Open to collaboration, freelance work and interesting projects
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/peachygang) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yuuslokrobjakkroval) 
 
 ## 🧰 Tech stack
 
