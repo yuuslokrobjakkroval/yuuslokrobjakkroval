@@ -21,7 +21,7 @@
 # 🌐 Socials:
 
 <a href="https://discord.gg/peachygang"><img src="https://skillicons.dev/icons?i=discord" alt="discord" /></a>
-<a href="https://youtube.com/@yuuslokrobjakkroval"><img src="https://skillicons.dev/icons?i=youTube" alt="youTube" /></a>
+<a href="https://discord.com/oauth2/authorize?client_id=1342317947573633077"><img src="https://skillicons.dev/icons?i=bots" alt="bots" /></a>
 
 # 🧰 Tech stack
 
