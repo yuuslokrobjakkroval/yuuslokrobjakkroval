@@ -8,12 +8,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/yuuslokrobjakkroval?style=for-the-badge&logo=github&color=10b981)](https://github.com/yuuslokrobjakkroval)
 ![Profile views](https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&style=for-the-badge&color=10b981&label=Profile+views)
 
-<!-- Uncomment and fill in the links you want to show:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
--->
-
 </div>
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400">
 
