@@ -4,9 +4,9 @@
 
 **Yuu Otosaka** · Full Stack Developer · Cambodia 🇰🇭
 
-[Portfolio](https://img.shields.io/badge/Portfolio-thoeurnrothanak.tech-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)
-[GitHub followers](https://img.shields.io/github/followers/yuuslokrobjakkroval?style=for-the-badge&logo=github&color=10b981)
-[Profile views](https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&style=for-the-badge&color=10b981&label=Profile+views)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thoeurnrothanak.tech-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)]
+[![GitHub followers](https://img.shields.io/github/followers/yuuslokrobjakkroval?style=for-the-badge&logo=github&color=10b981)]
+[![Profile views](https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&style=for-the-badge&color=10b981&label=Profile+views)]
 
 </div>
 
