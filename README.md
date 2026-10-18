@@ -11,11 +11,15 @@
 </div>
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="480">
 
+<br>
+
 **💫 About Me**
 
 🌱 I’m currently learning Next.js, React.js
 <br>
-👯 I’m looking to collaborate on [PEACHY](https://peachygang.app)<br>💬 Ask me about HTML, CSS, JavaScript, Discord.js, MongoDB<br>📫 How to reach me peachydeveloper@gmail.com<br>
+👯 I’m looking to collaborate on [PEACHY](https://peachygang.app)
+<br>
+📫 How to reach me peachydeveloper@gmail.com<br>
 
 **🌐 Socials**
 
