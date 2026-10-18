@@ -4,11 +4,14 @@
 
 **Yuu Otosaka** · Full Stack Developer · Cambodia 🇰🇭
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-thoeurnrothanak.tech-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thoeurnrothanak.tech/?utm_source=github&utm_medium=readme)
-[![GitHub followers](https://img.shields.io/github/followers/yuuslokrobjakkroval?style=for-the-badge&logo=github&color=10b981)](https://github.com/yuuslokrobjakkroval)
+[![Portfolio](https://img.shields.io/badge/Portfolio-thoeurnrothanak.tech-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)(https://thoeurnrothanak.tech/?utm_source=github&utm_medium=readme)
+[![GitHub followers](https://img.shields.io/github/followers/yuuslokrobjakkroval?style=for-the-badge&logo=github&color=10b981)(https://github.com/yuuslokrobjakkroval)
 [![Profile views](https://komarev.com/ghpvc/?username=yuuslokrobjakkroval&style=for-the-badge&color=10b981&label=Profile+views)
 
 </div>
+
+<br>
+  
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="480">
 
 <br>
