@@ -78,10 +78,8 @@
 
 <a href="https://skyline.peachygang.app/yuuslokrobjakkroval">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://skyline.peachygang.app/api/skyline?username=yuuslokrobjakkroval&theme=dark">
-    <img alt="My contributions as a 3D skyline"
-         src="https://skyline.peachygang.app/api/skyline?username=yuuslokrobjakkroval&theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skyline.peachygang.app/api/skyline?username=yuuslokrobjakkroval&theme=dark">
+    <img alt="yuuslokrobjakkroval's contribution skyline" src="https://skyline.peachygang.app/api/skyline?username=yuuslokrobjakkroval&theme=light">
   </picture>
 </a>
 
